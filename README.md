@@ -1,8 +1,7 @@
 # dwm
 my simple dwm build
 
-#Current Keybinds
-
+# Current Keybinds
 - MODKEY + p: Launches dmenu, a dynamic menu utility for X11.
 - MODKEY + Return: Launches a terminal window using termcmd, which is a shell command that specifies the desired terminal emulator.
 - MODKEY + b: Toggles the visibility of the status bar.
