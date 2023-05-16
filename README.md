@@ -31,7 +31,7 @@ my simple dwm build
 - MODKEY + ShiftMask + equal: Resets the size of gaps between windows.
 - TAGKEYS(XK_1, 0) through TAGKEYS(XK_9, 8): Switches focus to the corresponding tag.
 - MODKEY + ShiftMask + q: Quits dwm.
-You are correct, I apologize for the mistake. The modifier key in these keybinds is `MODKEY`, which is defined elsewhere in the code and can vary depending on the user's configuration. So the correct summary of the keybinds for controlling volume is:
+
 
 # Media Control Keys
 - MODKEY+F1: Mute the volume
