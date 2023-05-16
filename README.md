@@ -1,6 +1,9 @@
 # dwm
 my simple dwm build
 
+'modkey' is Windows key."
+
+
 # Current Keybinds
 - MODKEY + p: Launches dmenu.
 - MODKEY + Return: Launches a terminal window using termcmd, which is a shell command that specifies the desired terminal emulator.
